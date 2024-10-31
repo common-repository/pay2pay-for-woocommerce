@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp_wc_pay2pay\n"
+"POT-Creation-Date: 2013-03-19 13:09+0400\n"
+"PO-Revision-Date: 2013-03-19 13:09+0400\n"
+"Last-Translator: \n"
+"Language-Team: Pay2Pay <support@pay2pay.com>\n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Olegf13\\OpenServer\\domains\\wordpress351\\wp-"
+"content\\plugins\\wp-wc-pay2pay\n"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:27
+msgid ""
+"Payment by <a href=\"http://www.pay2pay.com/\" title=\"Pay2Pay is a full "
+"service of your website in the field of organization and receiving "
+"electronic payments.\" target=\"_blank\">Pay2Pay</a>."
+msgstr ""
+"Оплата с помощью <a href=\"http://www.pay2pay.com/\" title=\"Pay2Pay — это "
+"комплексное обслуживание вашего сайта в области организации и приема "
+"электронных платежей.\" target=\"_blank\">Pay2Pay</a>."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:60
+msgid "Enable/Disable"
+msgstr "Включить/отключить"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:62
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:97
+msgid "Enable"
+msgstr "Включено"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:66
+msgid "Title"
+msgstr "Заголовок"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:68
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Позволяет задать заголовок, который видит покупатель в процессе оплаты."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:73
+msgid "Description"
+msgstr "Описание"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:75
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Описание способа оплаты, которое покупатель увидит на странице выбора метода "
+"оплаты."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:76
+msgid ""
+"Payment by bank credit cards, terminals, money transfer and electronic "
+"payment systems (Webmoney, QIWI Purse, LiqPay, Yandex.Money etc.)."
+msgstr ""
+"Оплата с помощью банковских карт, терминалов самообслуживания, денежных "
+"переводов и электронных платежных системы (Webmoney, QIWI Кошелек, LiqPay, "
+"Яндкес.Деньги и т.д.)."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:79
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:81
+#, fuzzy
+msgid ""
+"Unique id of the store in Pay2Pay system. You can find it in your <a href="
+"\"https://cp.pay2pay.com\" target=\"_blank\">shop control panel</a>."
+msgstr ""
+"Идентификатор Вашего магазина в системе Pay2Pay, значение указано в <a href="
+"\"https://cp.pay2pay.com\" target=\"_blank\">панели управления магазином</a>."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:84
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:86
+msgid "Custom character set is used to sign messages are forwarded."
+msgstr ""
+"Произвольный набор символов, используется для подписи сообщений при "
+"переадресации."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:89
+msgid "Hidden key"
+msgstr "Скрытый ключ"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:91
+msgid "Custom character set is used to sign hidden messages to Result URL."
+msgstr ""
+"Произвольный набор символов, используется для подписи скрытых сообщений на "
+"Result URL."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:94
+msgid "Test mode"
+msgstr "Тестовый режим"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:96
+msgid "(optional) Test mode."
+msgstr "(необязательный параметр) Тестовый режим работы."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:100
+msgid "Image"
+msgstr "Изображение"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:101
+msgid ""
+"(optional) Pay2Pay icon which the user sees during checkout on payment "
+"selection page."
+msgstr ""
+"(необязательный параметр) Иконка Pay2Pay, показываемая на странице выбора "
+"способа оплаты при оформлении заказа."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:104
+msgid "Don't use"
+msgstr "Не использовать"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:105
+msgid "Green"
+msgstr "Зеленое"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:106
+msgid "Grey"
+msgstr "Серое"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:107
+msgid "Transparent"
+msgstr "Прозрачное"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:111
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:113
+msgid ""
+"(optional) Payment code. If set selected payment method will be chosen "
+"automatically. Available payment codes you can <a href=\"https://cp.pay2pay."
+"com/?page=dev\" title=\"Available payment codes list\" target=\"_blank"
+"\">look under \"For developers\" tab</a> in shop control panel."
+msgstr ""
+"(необязательный параметр) Код способа оплаты. При оплате заказа "
+"автоматически будет выбран указанный способ оплаты. Доступные коды способов "
+"оплаты Вы можете <a href=\"https://cp.pay2pay.com/?page=dev\" title=\"Список "
+"кодов доступных способов оплаты\" target=\"_blank\">посмотреть на вкладке "
+"\"Разработчикам\"</a> в панели управления магазином."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:180
+msgid ""
+"<p>Thank you for your order! Now you will be redirected to the payment page."
+"</p>"
+msgstr ""
+"<p>Спасибо за Ваш заказ, сейчас Вы будете перенаправлены на страницу оплаты."
+"</p>"
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:225
+msgid "Payment of the order is canceled."
+msgstr "Оплата заказа отменена."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:228
+msgid "Payment is expected."
+msgstr "Ожидается оплата."
+
+#: C:\Olegf13\OpenServer\domains\wordpress351\wp-content\plugins\wp-wc-pay2pay/wp-wc-pay2pay.php:231
+msgid "Funds are reserved."
+msgstr "Средства зарезервированы."
+
+#~ msgid "Translate this project?"
+#~ msgstr "Тестовый перевод"
